@@ -4,3 +4,6 @@
 [submodule "kde-gtk-config"]
 	path = kde-gtk-config
 	url = https://github.com/heddxh/kde-gtk-config
+[submodule "kwin"]
+	path = kwin
+	url = https://github.com/heddxh/kwin
