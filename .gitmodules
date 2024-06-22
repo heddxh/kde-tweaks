@@ -1,9 +1,12 @@
 [submodule "kconfig"]
 	path = kconfig
 	url = https://github.com/heddxh/kconfig
+	branch = v6.1.0
 [submodule "kde-gtk-config"]
 	path = kde-gtk-config
 	url = https://github.com/heddxh/kde-gtk-config
+	branch = v6.1.0
 [submodule "kwin"]
 	path = kwin
 	url = https://github.com/heddxh/kwin
+	branch = v6.1.0
